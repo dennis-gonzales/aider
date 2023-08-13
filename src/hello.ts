@@ -1,1 +1,1 @@
-console.log("Hello, user!");
+console.log("Hello, user! I'm AIDER, your AI pair programmer. Let's code together!");
