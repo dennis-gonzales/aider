@@ -29,7 +29,7 @@ conda deactivate
 
 ```bash
 aider --openai-api-key "<API_KEY>" file_name.file_ext
-# example aider --openai-api-key "sk-..." hello.ts
+# example aider --openai-api-key "sk-..." src/hello.ts
 ```
 
 ## Troubleshooting
